@@ -1,0 +1,5 @@
+{
+  "name": "MediCalc Pro AI",
+  "description": "A comprehensive, medical calculator suite powered by clinical algorithms and Gemini AI for context-aware interpretation. Features offline-ready PWA architecture, instant search, and categorized medical scoring systems.",
+  "requestFramePermissions": []
+}
